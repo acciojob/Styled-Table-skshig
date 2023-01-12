@@ -13,8 +13,10 @@ table{
     width: 50%;
 
 }
-tr{
+tr:hover{
     height: 40px;
+    background-color: bisque;
+
 }
 td{
     text-align: center;
