@@ -1,1 +1,21 @@
 /* your code */
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid grey;
+}
+th{
+    background-color: burlywood;
+}
+tbody{
+    background-color: khaki;
+}
+table{
+    width: 50%;
+
+}
+tr{
+    height: 40px;
+}
+td{
+    text-align: center;
+}
